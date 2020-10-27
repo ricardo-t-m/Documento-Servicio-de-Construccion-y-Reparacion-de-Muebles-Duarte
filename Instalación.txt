@@ -1,0 +1,9 @@
+1) Descargar e instalar mysql server y mysql workbench
+
+2)Asignarle la contraseña al usuario root del mysql 123
+
+3)Importar la base de datos que usa nuestro software
+
+4)Extraer todo el contenido del zip donde esta almacenado el ejecutable y la libreria, En la ubicación donde querramos guardarlo
+
+5) Iniciar el ejecutable y listo.
