@@ -1,0 +1,3 @@
+Debido al límite del github solo se esta subiendo el source, esto
+vendria a ser lo escencial para obtener el proyecto.
+Pero es más recomendable el extraer todo el proyecto desde el rar.
